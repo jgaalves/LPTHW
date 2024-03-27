@@ -1,0 +1,13 @@
+Sequencias de Escape
+
+\\	Barra invertida
+\'	Aspas simples
+\"	Aspas duplas
+\a	Campainha
+\b	Backspace
+\f	Avanço de página
+\n	Nova Linha
+\r	Retorno de carro
+\t	Tabulação Horizontal
+\v	Tabulação vertical
+
